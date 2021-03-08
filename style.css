@@ -1,0 +1,22 @@
+body {
+	background-color: red;
+	text-align: center;
+}
+h1 {
+	color: green;
+	font-family: "Reggae One", cursive;
+}
+p {
+	font-family: "Ranchers", cursive;
+	color: yellow;
+}
+.right {
+	float: right;
+}
+.left {
+	float: left;
+}
+.answer {
+	color: blue;
+	font-family: cursive;
+}
